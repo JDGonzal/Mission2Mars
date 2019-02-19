@@ -18,9 +18,9 @@ The Mission
 The mission consists of 2 phases:
 
 Phase-1:
-This phase is meant to send building equipment and construction material to help build the colony. In the resources tab, you will find a text file that contains the list of all items that we need to send called 'Phase-1.txt`. Each line in the file contains the item name as well as its weight in Kgs.
+This phase is meant to send building equipment and construction material to help build the colony. In the resources tab, you will find a text file that contains the list of all items that we need to send called 'Phase-1.txt'. Each line in the file contains the item name as well as its weight in Kgs.
 
-The file is here.
+The file is here. https://s3.amazonaws.com/video.udacity-data.com/topher/2017/December/5a372d67_phase-1/phase-1.txt
 <<building tools=2000
 building tools=2000
 building tools=2000
@@ -38,9 +38,9 @@ books=1000
 water=5000>>
 
 Phase-2:
-This phase is meant to send the colony of humans along with some food resources. In the resources tab, you will find a text file that contains the list of all items that we need to send called 'Phase-2.txt`. Each line in the file also contains the item name and its weight in Kgs.
+This phase is meant to send the colony of humans along with some food resources. In the resources tab, you will find a text file that contains the list of all items that we need to send called 'Phase-2.txt'. Each line in the file also contains the item name and its weight in Kgs.
 
-The file is here.
+The file is here.https://s3.amazonaws.com/video.udacity-data.com/topher/2017/December/5a372d88_phase-2/phase-2.txt
 <<habitat=3000
 colony=5000
 food=5000
